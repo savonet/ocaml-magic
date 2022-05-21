@@ -1,0 +1,5 @@
+2008-03-23  Christophe Troestler  <chris_77@sourceforge.net>
+
+	* Merged in Romain Beauxis patch for OCamlMakefile and configure
+	  support.
+
