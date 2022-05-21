@@ -1,5 +1,5 @@
 (lang dune 2.8)
-(version 0.5.1)
+(version 0.7.3)
 (name magic)
 (source (github savonet/ocaml-magic))
 (license LGPL-2.1)
